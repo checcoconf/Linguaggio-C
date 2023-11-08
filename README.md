@@ -4,9 +4,9 @@
 
 ### Informatica e Tecnologie per la Produzione del Software AL
 
-# Repository Linguaggio-C
+# Repository Linguaggio C
 
-Questo repository contiene esercizi, progetti e materiale di supporto per il corso di Linguaggio C. È destinato agli studenti che desiderano accedere a risorse aggiuntive, esercitazioni pratiche e progetti relativi al linguaggio C.
+Questo repository contiene esercizi, progetti e materiale di supporto per il corso di Linguaggio C.
 
 ## Contenuti
 
