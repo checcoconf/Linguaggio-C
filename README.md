@@ -6,11 +6,11 @@
 
 #### Primo Semestre
 
-##### Corso di Programmazione
+### Programmazione
 
 #### Secondo Semestre
 
-##### Laboratorio di Informatica
+### Laboratorio di Informatica
 
 ## Descrizione del Repository
 
