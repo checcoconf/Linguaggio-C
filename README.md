@@ -20,8 +20,8 @@ Il repository include:
 
 ## Struttura del Repository
 
-- La cartella "Programmazione" (https://github.com/checcoconf/Linguaggio-C/tree/main/Programmazione).
-- La cartella "Laboratorio di Informatica" (https://github.com/checcoconf/Linguaggio-C/tree/main/Laboratorio%20di%20Informatica).
+- La cartella "Programmazione"(https://github.com/checcoconf/Linguaggio-C/tree/main/Programmazione).
+- La cartella "Laboratorio di Informatica"(https://github.com/checcoconf/Linguaggio-C/tree/main/Laboratorio%20di%20Informatica).
 
 ## Licenza
 
