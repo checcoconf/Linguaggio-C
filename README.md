@@ -25,10 +25,6 @@ Il repository include:
 - La cartella "Documentazione" include note e documenti importanti per il corso.
 - La cartella "Risorse" contiene ulteriori risorse utili e link a materiale di riferimento.
 
-## Come Contribuire
-
-Se sei uno studente o un appassionato di programmazione interessato a migliorare questo repository, puoi contribuire attraverso pull request per correggere errori, aggiungere nuovi esercizi o migliorare la documentazione.
-
 ## Licenza
 
 Questo progetto è distribuito sotto la licenza [Licenza MIT](https://opensource.org/licenses/MIT).
