@@ -1,0 +1,3 @@
+/Users/checcoconf/Documents/Esercizi_Esonero/Esercizio2/cmake-build-debug/CMakeFiles/Esercizio2.dir
+/Users/checcoconf/Documents/Esercizi_Esonero/Esercizio2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Documents/Esercizi_Esonero/Esercizio2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

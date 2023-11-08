@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Conversione_Temperature",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Conversione_Temperature::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Conversione_Temperature-Debug-632c992701e57436dfd9.json",
+					"name" : "Conversione_Temperature",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_9/Conversione_Temperature/cmake-build-debug",
+		"source" : "/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_9/Conversione_Temperature"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

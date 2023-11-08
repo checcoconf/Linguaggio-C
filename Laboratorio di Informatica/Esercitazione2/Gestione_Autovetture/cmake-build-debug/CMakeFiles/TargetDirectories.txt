@@ -1,0 +1,3 @@
+/Users/checcoconf/Documents/Laboratorio di Informatica/Esercitazione2/Gestione_Autovetture/cmake-build-debug/CMakeFiles/Gestione_Autovetture.dir
+/Users/checcoconf/Documents/Laboratorio di Informatica/Esercitazione2/Gestione_Autovetture/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Documents/Laboratorio di Informatica/Esercitazione2/Gestione_Autovetture/cmake-build-debug/CMakeFiles/rebuild_cache.dir

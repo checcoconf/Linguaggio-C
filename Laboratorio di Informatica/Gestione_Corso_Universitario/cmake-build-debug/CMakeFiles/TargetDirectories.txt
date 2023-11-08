@@ -1,0 +1,3 @@
+/Users/checcoconf/Documents/Laboratorio di Informatica/Gestione_Corso_Universitario/cmake-build-debug/CMakeFiles/Gestione_Corso_Universitario.dir
+/Users/checcoconf/Documents/Laboratorio di Informatica/Gestione_Corso_Universitario/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Documents/Laboratorio di Informatica/Gestione_Corso_Universitario/cmake-build-debug/CMakeFiles/rebuild_cache.dir

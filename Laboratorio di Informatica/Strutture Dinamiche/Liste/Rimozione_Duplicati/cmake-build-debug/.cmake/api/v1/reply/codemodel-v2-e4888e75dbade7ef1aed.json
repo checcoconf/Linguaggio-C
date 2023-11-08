@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Rimozione_Duplicati",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Rimozione_Duplicati::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Rimozione_Duplicati-Debug-d333f3586109a2ab359e.json",
+					"name" : "Rimozione_Duplicati",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/checcoconf/Documents/Laboratorio di Informatica/Strutture Dinamiche/Liste/Rimozione_Duplicati/cmake-build-debug",
+		"source" : "/Users/checcoconf/Documents/Laboratorio di Informatica/Strutture Dinamiche/Liste/Rimozione_Duplicati"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

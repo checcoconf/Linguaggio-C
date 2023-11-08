@@ -1,0 +1,3 @@
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_3/Quadrato_Vuoto/cmake-build-debug/CMakeFiles/Quadrato_Vuoto.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_3/Quadrato_Vuoto/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_3/Quadrato_Vuoto/cmake-build-debug/CMakeFiles/rebuild_cache.dir

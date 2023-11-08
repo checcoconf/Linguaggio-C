@@ -1,0 +1,6 @@
+# ninja log v5
+24	51	1671009222986942946	File_Sequenziale	ab510cdbec92ce07
+0	24	1671009222959435760	CMakeFiles/File_Sequenziale.dir/main.c.o	6e1eaae255657566
+1	56	1675072594554041890	build.ninja	6a9681d4c5d8ae95
+1	290	1675072594846937945	CMakeFiles/File_Sequenziale.dir/main.c.o	e5004e73fbaffebc
+290	336	1675072594896313705	File_Sequenziale	9da5db868a426103

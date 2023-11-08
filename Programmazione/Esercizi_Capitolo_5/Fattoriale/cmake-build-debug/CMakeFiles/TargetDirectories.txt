@@ -1,0 +1,3 @@
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/Fattoriale/cmake-build-debug/CMakeFiles/Fattoriale.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/Fattoriale/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/Fattoriale/cmake-build-debug/CMakeFiles/rebuild_cache.dir

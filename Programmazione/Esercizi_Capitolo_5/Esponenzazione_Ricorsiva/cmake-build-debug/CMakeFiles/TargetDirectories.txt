@@ -1,0 +1,3 @@
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/Esponenzazione_Ricorsiva/cmake-build-debug/CMakeFiles/Esponenzazione_Ricorsiva.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/Esponenzazione_Ricorsiva/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/Esponenzazione_Ricorsiva/cmake-build-debug/CMakeFiles/rebuild_cache.dir

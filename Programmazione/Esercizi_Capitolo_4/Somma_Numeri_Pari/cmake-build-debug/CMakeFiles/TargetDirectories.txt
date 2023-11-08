@@ -1,0 +1,3 @@
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_4/Somma_Numeri_Pari/cmake-build-debug/CMakeFiles/Somma_Numeri_Pari.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_4/Somma_Numeri_Pari/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_4/Somma_Numeri_Pari/cmake-build-debug/CMakeFiles/rebuild_cache.dir

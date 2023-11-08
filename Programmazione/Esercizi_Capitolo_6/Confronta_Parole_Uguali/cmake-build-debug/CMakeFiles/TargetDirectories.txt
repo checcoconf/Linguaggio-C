@@ -1,0 +1,3 @@
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_6/Confronta_Parole_Uguali/cmake-build-debug/CMakeFiles/Confronta_Parole_Uguali.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_6/Confronta_Parole_Uguali/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_6/Confronta_Parole_Uguali/cmake-build-debug/CMakeFiles/rebuild_cache.dir

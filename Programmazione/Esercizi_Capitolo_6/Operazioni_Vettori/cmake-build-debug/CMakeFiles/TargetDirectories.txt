@@ -1,0 +1,3 @@
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_6/Operazioni_Vettori/cmake-build-debug/CMakeFiles/Operazioni_Vettori.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_6/Operazioni_Vettori/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_6/Operazioni_Vettori/cmake-build-debug/CMakeFiles/rebuild_cache.dir

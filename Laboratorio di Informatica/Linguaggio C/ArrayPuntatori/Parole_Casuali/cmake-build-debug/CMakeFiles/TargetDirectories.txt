@@ -1,0 +1,3 @@
+/Users/checcoconf/Documents/Laboratorio di Informatica/ArrayPuntatori/Parole_Casuali/cmake-build-debug/CMakeFiles/Parole_Casuali.dir
+/Users/checcoconf/Documents/Laboratorio di Informatica/ArrayPuntatori/Parole_Casuali/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Documents/Laboratorio di Informatica/ArrayPuntatori/Parole_Casuali/cmake-build-debug/CMakeFiles/rebuild_cache.dir

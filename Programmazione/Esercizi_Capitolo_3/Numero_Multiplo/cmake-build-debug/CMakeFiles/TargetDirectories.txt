@@ -1,0 +1,3 @@
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_3/Numero_Multiplo/cmake-build-debug/CMakeFiles/Numero_Multiplo.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_3/Numero_Multiplo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_3/Numero_Multiplo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

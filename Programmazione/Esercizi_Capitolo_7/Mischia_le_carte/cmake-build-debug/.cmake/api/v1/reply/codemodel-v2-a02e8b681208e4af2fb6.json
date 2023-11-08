@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Mischia_le_carte",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Mischia_le_carte::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Mischia_le_carte-Debug-2e3b2b18581ae46eac3c.json",
+					"name" : "Mischia_le_carte",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_7/Mischia_le_carte/cmake-build-debug",
+		"source" : "/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_7/Mischia_le_carte"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

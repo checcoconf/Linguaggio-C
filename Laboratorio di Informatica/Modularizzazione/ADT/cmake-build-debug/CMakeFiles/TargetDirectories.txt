@@ -1,0 +1,3 @@
+/Users/checcoconf/Documents/Laboratorio di Informatica/Modularizzazione/ADT/cmake-build-debug/CMakeFiles/ADT.dir
+/Users/checcoconf/Documents/Laboratorio di Informatica/Modularizzazione/ADT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Documents/Laboratorio di Informatica/Modularizzazione/ADT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

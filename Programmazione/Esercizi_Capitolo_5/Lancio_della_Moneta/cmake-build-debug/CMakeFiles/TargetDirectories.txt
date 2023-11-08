@@ -1,0 +1,3 @@
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/Lancio_della_Moneta/cmake-build-debug/CMakeFiles/Lancio_della_Moneta.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/Lancio_della_Moneta/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/Lancio_della_Moneta/cmake-build-debug/CMakeFiles/rebuild_cache.dir

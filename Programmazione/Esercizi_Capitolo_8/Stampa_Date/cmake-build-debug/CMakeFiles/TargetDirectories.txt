@@ -1,0 +1,3 @@
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_8/Stampa_Date/cmake-build-debug/CMakeFiles/Stampa_Date.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_8/Stampa_Date/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_8/Stampa_Date/cmake-build-debug/CMakeFiles/rebuild_cache.dir

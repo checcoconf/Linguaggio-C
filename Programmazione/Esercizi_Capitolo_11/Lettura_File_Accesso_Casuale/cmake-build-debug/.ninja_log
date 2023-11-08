@@ -1,0 +1,8 @@
+# ninja log v5
+28	58	1671208723939745107	Lettura_File_Sequenziale	267b459f21f95b8b
+0	43	1674642550921079945	build.ninja	f1491d9ff775690b
+1	28	1671208723909273305	CMakeFiles/Lettura_File_Sequenziale.dir/main.c.o	cd2effc6f4d2e619
+0	24	1674642555546628658	CMakeFiles/Lettura_File_Sequenziale.dir/main.c.o	93787d93302ecd1c
+25	50	1674642555572822179	Lettura_File_Sequenziale	be6719610d194b96
+1	26	1674642580447718748	CMakeFiles/Lettura_File_Sequenziale.dir/main.c.o	93787d93302ecd1c
+26	55	1674642580477064085	Lettura_File_Sequenziale	be6719610d194b96
