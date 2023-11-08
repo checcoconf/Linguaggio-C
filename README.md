@@ -4,13 +4,9 @@
 
 ### Informatica e Tecnologie per la Produzione del Software AL
 
-#### Primo Semestre
+#### Primo Semestre - Programmazione
 
-### Programmazione
-
-#### Secondo Semestre
-
-### Laboratorio di Informatica
+#### Secondo Semestre - Laboratorio di Informatica
 
 ## Descrizione del Repository
 
