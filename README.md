@@ -20,10 +20,8 @@ Il repository include:
 
 ## Struttura del Repository
 
-- La cartella "Esercizi" contiene tutti gli esercizi assegnati durante il corso, suddivisi per livello di difficoltà.
-- La cartella "Progetti" contiene progetti pratici e relativi materiali di supporto.
-- La cartella "Documentazione" include note e documenti importanti per il corso.
-- La cartella "Risorse" contiene ulteriori risorse utili e link a materiale di riferimento.
+- La cartella "Programmazione" (https://github.com/checcoconf/Linguaggio-C/tree/main/Programmazione).
+- La cartella "Laboratorio di Informatica" (https://github.com/checcoconf/Linguaggio-C/tree/main/Laboratorio%20di%20Informatica).
 
 ## Licenza
 
