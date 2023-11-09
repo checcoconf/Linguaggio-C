@@ -25,6 +25,7 @@ Il repository include:
 
 ## IDE UTILIZZATI
 <code><img alt="CLion" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg"/></code>
+<code><img alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
 <code><img alt="Code::Blocks" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png"/></code>
 
 ## Licenza
