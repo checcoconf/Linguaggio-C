@@ -25,7 +25,7 @@ Il repository include:
 
 ## IDE UTILIZZATI
 <code><img alt="CLion" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg"/></code>
-<code><img alt="Code::Blocks" width="40px" src="https://w7.pngwing.com/pngs/726/388/png-transparent-code-blocks-computer-icons-computer-programming-block-icon-angle-rectangle-computer-program.png"/></code>
+<code><img alt="Code::Blocks" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png"/></code>
 
 ## Licenza
 
