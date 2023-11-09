@@ -6,7 +6,7 @@
 
 # Repository Linguaggio C
 
-Questo repository contiene esercizi, progetti e materiale di supporto per il corso di Linguaggio C.
+Questo repository contiene esercizi, progetti e materiale di supporto per il corso Programmazione e Laboratorio di Informatica.
 
 ## Contenuti
 
