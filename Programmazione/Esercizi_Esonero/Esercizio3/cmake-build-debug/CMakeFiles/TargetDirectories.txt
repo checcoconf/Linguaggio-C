@@ -1,3 +1,0 @@
-/Users/checcoconf/Desktop/Programmazione/Esercizi_Esonero/Esercizio3/cmake-build-debug/CMakeFiles/Esercizio3.dir
-/Users/checcoconf/Desktop/Programmazione/Esercizi_Esonero/Esercizio3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/checcoconf/Desktop/Programmazione/Esercizi_Esonero/Esercizio3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

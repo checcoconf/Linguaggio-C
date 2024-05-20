@@ -1,3 +1,0 @@
-/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/MCD_Ricorsivo/cmake-build-debug/CMakeFiles/MCD_Ricorsivo.dir
-/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/MCD_Ricorsivo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/MCD_Ricorsivo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/Users/checcoconf/Documents/Laboratorio di Informatica/Strutture Dinamiche/Pile/Top e Inverti/cmake-build-debug/CMakeFiles/Top_e_Inverti.dir
-/Users/checcoconf/Documents/Laboratorio di Informatica/Strutture Dinamiche/Pile/Top e Inverti/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/checcoconf/Documents/Laboratorio di Informatica/Strutture Dinamiche/Pile/Top e Inverti/cmake-build-debug/CMakeFiles/rebuild_cache.dir

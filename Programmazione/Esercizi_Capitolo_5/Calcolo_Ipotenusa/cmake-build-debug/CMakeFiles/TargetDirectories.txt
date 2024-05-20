@@ -1,3 +1,0 @@
-/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/Calcolo_Ipotenusa/cmake-build-debug/CMakeFiles/Calcolo_Ipotenusa.dir
-/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/Calcolo_Ipotenusa/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/checcoconf/Desktop/Programmazione/Esercizi_Capitolo_5/Calcolo_Ipotenusa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
