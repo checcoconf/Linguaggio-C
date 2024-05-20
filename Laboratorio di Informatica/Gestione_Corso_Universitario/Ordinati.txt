@@ -1,0 +1,50 @@
+36*Storia dell'Arte*Ferraro*8*84
+14*Storia*Russo*9*101
+17*Sociologia*Greco*11*165
+20*Scienze della Terra*Serra*9*124
+47*Scienze della Salute*Marchi*12*189
+30*Scienze della Nutrizione*Marchetti*8*97
+45*Scienze della Moda*Fabbro*6*53
+43*Scienze della Formazione*Morelli*11*161
+19*Scienze della Comunicazione*Santoro*12*193
+13*Scienze dell'Informazione*Villa*7*78
+42*Scienze dell'Economia*Moro*9*145
+35*Scienze dell'Amministrazione*Sartori*10*105
+25*Scienze dell'Alimentazione*Mancini*12*187
+41*Scienze Sociali*Poli*12*191
+34*Scienze Politiche e Relazioni Internazionali*Giordano*12*198
+7*Scienze Politiche*Esposito*12*179
+27*Scienze Motorie*Falcone*11*159
+37*Scienze Biomediche*Galli*11*166
+26*Psicologia Clinica*Pellegrini*9*139
+2*Psicologia*Bianchi*8*89
+28*Pedagogia*Ferri*7*79
+10*Medicina*Conti*12*198
+15*Matematica*Colombo*10*122
+6*Lettere*Ricci*7*93
+33*Letteratura Comparata*Palumbo*6*56
+39*Ingegneria dei Materiali*Costa*7*66
+12*Ingegneria Meccanica*Guerini*11*143
+22*Ingegneria Elettrica*Farina*7*81
+1*Ingegneria Civile*Rossi*10*123
+32*Ingegneria Chimica*De Luca*9*143
+44*Ingegneria Ambientale*Sala*8*99
+48*Informatica Applicata*Bruno*9*138
+5*Informatica*Ferrari*11*134
+11*Giurisprudenza*Barbieri*9*136
+18*Gestione Aziendale*Fabbri*6*51
+31*Geologia*Milani*11*174
+24*Fisica*Cattaneo*8*92
+38*Filosofia del Linguaggio*Bellini*9*128
+16*Filosofia*Marini*8*85
+29*Filologia Classica*Vitali*10*132
+21*Economia e Finanza*Leone*11*151
+46*Economia Internazionale*Santini*10*129
+3*Economia*Verdi*9*156
+40*Comunicazione e Marketing*Barbero*10*147
+9*Chimica*Galli*8*69
+49*Biologia Marina*Gallo*11*162
+8*Biologia*Romano*10*112
+50*Architettura del Paesaggio*Greco*7*75
+4*Architettura*Rizzo*6*77
+23*Archeologia*Riva*10*116
